@@ -1,1 +1,1 @@
-# Capstone-Project
+This is my capstone project to end off my Machine Learning class in my senior year. My plan was to create a deep learning model using TensorFlow to recognize Mandarin text and translate it to English. I know that this exists elsewhere, but I used this project as a learning platform to figure out how image recognition works with deep learning.
